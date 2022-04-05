@@ -3,15 +3,16 @@
     <img
         src="https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
         width="200"
+        style="padding-left: 50%;"
     />
 </div>
 
-<div>
+<div style="padding-left: 10%;">
     <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="15" />
     <span><b>Atlanta, Georgia</b></span>
 </div>
 
-<div>
+<div style="padding-left: 10%;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="15" />
     <span>
         <a href="mailto:Kevin.Arellano94@GMail.Com">
@@ -21,24 +22,30 @@
 </div>
 
 <br />
-<h2><b>SKILLS</b></h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+<h2 style="padding-left: 0%;"><b>SKILLS</b></h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
+<h3 style="padding-left: 2.5%;"><b>Backend</b></h3>
+<li style="list-style: none;">
+    <ul>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+    </ul>
+    <ul>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
+    </ul>
+</li>
 
+#
 
-<br />
+## **SOCIAL**
 
-<h2><b>SOCIAL</b></h2>
+> [![Reddit](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://www.reddit.com/user/KevinArellano94)
 
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://www.reddit.com/user/KevinArellano94)
+> [![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)](https://twitter.com/KevArellano94)
 
-[![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)](https://twitter.com/KevArellano94)
+> [![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
 
-[![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
-
-[![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
+> [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
 
 Here are some ideas to get you started:
 
@@ -71,4 +78,4 @@ Dark Melodic Post Rock/Post Metal
  - Kwoon
  - OWEL
 "Music is the hidden arithmetical exercise of a soul unconscious that it is calculating" - Leibniz
-"Music was invented to confirm human loneliness" - Durrell, Lawrenceg
+"Music was invented to confirm human loneliness" - Durrell, Lawrence
