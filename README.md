@@ -3,16 +3,15 @@
     <img
         src="https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
         width="200"
-        style="padding-left: 50%;"
     />
 </div>
 
-<div style="padding-left: 10%;">
+<div>
     <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="15" />
     <span><b>Atlanta, Georgia</b></span>
 </div>
 
-<div style="padding-left: 10%;">
+<div>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="15" />
     <span>
         <a href="mailto:Kevin.Arellano94@GMail.Com">
@@ -21,19 +20,27 @@
     </span>
 </div>
 
-<br />
+#
 
-<h2 style="padding-left: 0%;"><b>SKILLS</b></h2>
+## **SKILLS**
 
-<h3 style="padding-left: 2.5%;"><b>Backend</b></h3>
-<li style="list-style: none;">
-    <ul>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
-    </ul>
-    <ul>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
-    </ul>
-</li>
+> ### Backend
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "50"/>
+> 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "50"/>
+> 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
+> 
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/>
+
 
 #
 
