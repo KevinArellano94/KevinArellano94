@@ -68,6 +68,7 @@
     </span>
 </div>
 
+![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)
 
 Here are some ideas to get you started:
 
