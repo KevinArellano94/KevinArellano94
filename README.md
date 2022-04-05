@@ -21,6 +21,14 @@
 </div>
 
 <br />
+<h2><b>SKILLS</b></h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
+
+
+<br />
 
 <h2><b>SOCIAL</b></h2>
 
@@ -63,4 +71,4 @@ Dark Melodic Post Rock/Post Metal
  - Kwoon
  - OWEL
 "Music is the hidden arithmetical exercise of a soul unconscious that it is calculating" - Leibniz
-"Music was invented to confirm human loneliness" - Durrell, Lawrence
+"Music was invented to confirm human loneliness" - Durrell, Lawrenceg
