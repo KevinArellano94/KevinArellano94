@@ -1,5 +1,5 @@
 <div>
-    <h1>Kevin Arellano</h1>
+    <h1><b>Kevin Arellano</b></h1>
     <img
         src="https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
         width="200"
@@ -7,68 +7,30 @@
 </div>
 
 <div>
-    <img
-        src="https://cdn-icons-png.flaticon.com/512/684/684908.png"
-        width="15"
-    />
-    <span>
-        Atlanta, Georgia
-    </span>
+    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="15" />
+    <span><b>Atlanta, Georgia</b></span>
 </div>
 
 <div>
-    <img
-        src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-        width="15"
-    />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="15" />
     <span>
         <a href="mailto:Kevin.Arellano94@GMail.Com">
-            Kevin.Arellano94@GMail.Com
+            <b>Kevin.Arellano94@GMail.Com</b>
         </a>
     </span>
 </div>
 
 <br />
 
-<h2>Social</h2>
+<h2><b>SOCIAL</b></h2>
 
-<div>
-    <img
-        src="https://cdn-icons-png.flaticon.com/512/145/145812.png"
-        width="15"
-    />
-    <span>
-        <a href="https://twitter.com/KevArellano94">
-            <b>KevArellano94</b>
-        </a>
-    </span>
-</div>
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://www.reddit.com/user/KevinArellano94)
 
-<div>
-    <img
-        src="https://cdn-icons-png.flaticon.com/512/1312/1312139.png"
-        width="15"
-    />
-    <span>
-        <a href="https://www.facebook.com/KevArellano94">
-            <b>KevArellano94</b>
-        </a>
-    </span>
-</div>
+[![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)](https://twitter.com/KevArellano94)
 
-<div>
-    <img
-        src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1649198618~hmac=dd98857f3c9101c27b258bf2e8494328"
-        width="15"
-    />
-    <span>
-        <a href="https://www.linkedin.com/in/kevinarellano94/">
-            <b>kevinarellano94</b>
-        </a>
-    </span>
-</div>
+[![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
 
-![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)
+[![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
 
 Here are some ideas to get you started:
 
