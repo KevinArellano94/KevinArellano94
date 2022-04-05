@@ -29,7 +29,7 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "50"/>
-> 
+
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
