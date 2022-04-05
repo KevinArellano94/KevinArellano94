@@ -34,9 +34,9 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "50"/>
-> 
+
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
-> 
+
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/>
