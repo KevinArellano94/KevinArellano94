@@ -4,6 +4,10 @@
         src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
         width = "200"
     />
+    <img
+        src = "https://c.tenor.com/Fufjf6HqAR8AAAAC/space-trippy.gif"
+        width = "200"
+    />
 </div>
 
 <div>
@@ -96,6 +100,8 @@
 > [![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
 
 > [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
+
+> [![YouTube](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://www.youtube.com/KevinArellano)
 
 Here are some ideas to get you started:
 
