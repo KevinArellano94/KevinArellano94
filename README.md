@@ -1,21 +1,39 @@
 <div>
     <h1><b>Kevin Arellano</b></h1>
     <img
-        src="https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
-        width="200"
+        src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
+        width = "200"
     />
 </div>
 
 <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="15" />
+    <img
+        src = "https://cdn-icons-png.flaticon.com/512/684/684908.png"
+        width = "15"
+    />
     <span><b>Atlanta, Georgia</b></span>
 </div>
 
 <div>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="15" />
+    <img
+        src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+        width = "15"
+    />
     <span>
-        <a href="mailto:Kevin.Arellano94@GMail.Com">
+        <a href = "mailto:Kevin.Arellano94@GMail.Com">
             <b>Kevin.Arellano94@GMail.Com</b>
+        </a>
+    </span>
+</div>
+
+<div>
+    <img
+        src = "https://cdn-icons.flaticon.com/png/512/4423/premium/4423638.png?token=exp=1649207042~hmac=39cbc2f95f05b7193c145e7e40e79b89"
+        width = "15"
+    />
+    <span>
+        <a href = "tel:678-824-2028">
+            <b>678.824.2028</b>
         </a>
     </span>
 </div>
@@ -25,46 +43,46 @@
 ## **SKILLS**
 
 > ### Frontend
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>
+> <img src =g "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "50"/>
 
 > ### Frameworks
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "50"/>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "50"/>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/>
 
 > ### Technologies
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "50"/>
 
 
 #
