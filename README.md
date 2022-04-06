@@ -48,7 +48,7 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width = "50"/>
-> <img src =g "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "50"/>
 
 > ### Frameworks
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/>
