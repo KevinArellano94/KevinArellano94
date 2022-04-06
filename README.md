@@ -102,7 +102,7 @@
 
 If you are still reading this, thank you!  I'll share some secrets about me:
 
-> **Currently working on:** GitHub's Profile README.md file XD
+> **Currently working on:** GitHub's Profile README.md file and GoDot XD
 >
 > **I’m currently learning:** Learning Kotlin and Python functionality dumping ( will compile later ).
 > 
