@@ -74,6 +74,9 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/>
 
 > ### Technologies
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width = "50"/>
+> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
