@@ -107,7 +107,7 @@ If you are still reading this, thank you!  I'll share some secrets about me:
 
 > **Currently working on:** GitHub's Profile README.md file and GoDot XD
 >
-> **I’m currently learning:** Learning Kotlin and Python functionality dumping ( will compile later ).
+> **I’m currently learning:** Learning Kotlin and Python Automation in GitHub Actions ( will document later ).
 > 
 > **I’m looking to collaborate on:** Automation, Machine Learning and Cyber Security
 > 
