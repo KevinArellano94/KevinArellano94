@@ -84,7 +84,7 @@
 >         title = "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Or have a look at the Long Term Support (LTS) schedule"
 >         alt = "NodeJs"
 >         >
->         <img src = "https://avatars.githubusercontent.com/u/9950313" width = "110" />
+>         <img src = "https://avatars.githubusercontent.com/u/9950313" width = "140" />
 >         <h3><strong>NodeJs</strong></h3>
 >       </a>
 >     </td>
