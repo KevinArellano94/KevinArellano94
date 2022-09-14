@@ -58,6 +58,7 @@
 > ### Backend
 > <a href = "https://go.dev/" title = "Go - an open source programming language supported by Google">
 >   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "50" />
+    <span>Go</span>
 > </a>
 
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
