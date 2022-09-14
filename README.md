@@ -57,7 +57,7 @@
 
 > ### Backend
 
-<table style="display: hidden">
+<table>
   <tr>
     <td>
       <a
@@ -91,20 +91,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" />
         <p align="middle">Go</p>
       </a>
-    </td>g
+    </td>
   </tr>
  </table>
-
-> <div float="left">
->   <a href = "https://go.dev/" title = "Go - an open source programming language supported by Google">
->     <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "50" />
->   </a>
->   <p>Go</p>
->   <a href = "https://go.dev/" title = "Go - an open source programming language supported by Google">
->     <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "50" />
->   </a>
->   <p>Go</p>
-> </div>
 
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
