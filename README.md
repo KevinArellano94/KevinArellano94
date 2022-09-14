@@ -56,9 +56,11 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
-<a href = "#" title = "Go">
+
+<a href = "https://go.dev/" title = "Go">
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "50" />
 </a>
+
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
