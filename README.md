@@ -56,44 +56,21 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
-
-<table>
-  <tr>
-    <td>
-      <a
-        href = "https://go.dev/"
-        title = "Go - an open source programming language supported by Google"
-        alt = "Go - GoLang"
-        target="_blank"
-        >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" />
-        <p align="middle">Go</p>
-      </a>
-    </td>
-    <td>
-      <a
-        href = "https://go.dev/"
-        title = "Go - an open source programming language supported by Google"
-        alt = "Go - GoLang"
-        target="_blank"
-        >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" />
-        <p align="middle">Go</p>
-      </a>
-    </td>
-    <td>
-      <a
-        href = "https://go.dev/"
-        title = "Go - an open source programming language supported by Google"
-        alt = "Go - GoLang"
-        target="_blank"
-        >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="100" />
-        <p align="middle">Go</p>
-      </a>
-    </td>
-  </tr>
- </table>
+>
+> <table>
+>   <tr align="middle">
+>     <td>
+>       <a
+>         href = "https://go.dev/"
+>         title = "Go - an open source programming language supported by Google"
+>         alt = "Go - GoLang"
+>         >
+>         <img src = "https://go.dev/images/gophers/front.svg" width = "100" />
+>         <h3><strong>Go</strong></h3>
+>       </a>
+>     </td>
+>   </tr>
+g> </table>
 
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
