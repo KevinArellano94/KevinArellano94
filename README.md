@@ -68,6 +68,16 @@
 >         <h3><strong>Go</strong></h3>
 >       </a>
 >     </td>
+>     <td>
+>       <a
+>         href = "https://www.python.org/"
+>         title = "Python - a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
+>         alt = "Python"
+>         >
+>         <img src = "https://www.python.org/static/img/python-logo-large.c36dccadd999.png" width = "110" />
+>         <h3><strong>Python</strong></h3>
+>       </a>
+>     </td>
 >   </tr>
 > </table>
 
