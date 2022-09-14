@@ -78,10 +78,20 @@
 >         <h3><strong>Python</strong></h3>
 >       </a>
 >     </td>
+>     <td>
+>       <a
+>         href = "https://nodejs.org/en/"
+>         title = "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Or have a look at the Long Term Support (LTS) schedule"
+>         alt = "NodeJs"
+>         >
+>         <img src = "https://avatars.githubusercontent.com/u/9950313" width = "110" />
+>         <h3><strong>NodeJs</strong></h3>
+>       </a>
+>     </td>
 >   </tr>
 > </table>
 
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+<!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/> -->
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
