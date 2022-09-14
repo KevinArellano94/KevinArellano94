@@ -61,7 +61,7 @@
 >     <td>
 >       <a
 >         href = "https://go.dev/"
->         title = "Go - an open source programming language supported by Google"
+>         title = "The Go language is small, compiles really fast, and as a result it lets your mind focus on the actual problem and less on the tool you are using to solve it. Code, test, debug cycles are so quick that you forget you are not working with an interpreted language. Looking at our code, you see less boilerplate and more business logic."
 >         alt = "Go - GoLang"
 >         >
 >         <img src = "https://go.dev/images/gophers/front.svg" width = "100" />
@@ -71,7 +71,7 @@
 >     <td>
 >       <a
 >         href = "https://www.python.org/"
->         title = "Python - a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
+>         title = "Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more. Building an open-source and cross-platform Azure CLI with Python by Dan Taylor."
 >         alt = "Python"
 >         >
 >         <img src = "https://www.python.org/static/img/python-logo-large.c36dccadd999.png" width = "110" />
