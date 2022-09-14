@@ -56,7 +56,6 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
->
 > <table>
 >   <tr align="middle">
 >     <td>
@@ -70,7 +69,7 @@
 >       </a>
 >     </td>
 >   </tr>
-g> </table>
+> </table>
 
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
