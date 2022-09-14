@@ -1,41 +1,41 @@
 <div>
-    <h1><b>Kevin Arellano</b></h1>
-    <img
-        src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
-        width = "200"
+  <h1><b>Kevin Arellano</b></h1>
+  <img
+    src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
+    width = "200"
     />
 </div>
 
 <div>
-    <img
-        src = "https://cdn-icons-png.flaticon.com/512/684/684908.png"
-        width = "15"
-    />
-    <span><b>Atlanta, Georgia</b></span>
+  <img
+    src = "https://cdn-icons-png.flaticon.com/512/684/684908.png"
+    width = "20"
+  />
+  <span><b>Atlanta, Georgia</b></span>
 </div>
 
 <div>
-    <img
-        src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-        width = "15"
-    />
-    <span>
-        <a href = "mailto:Kevin.Arellano94@GMail.Com">
-            <b>Kevin.Arellano94@GMail.Com</b>
-        </a>
-    </span>
+  <img
+    src = "https://cdn-icons-png.flaticon.com/512/545/545194.png"
+    width = "20"
+  />
+  <span>
+    <a href = "tel:678-824-2028">
+      <span><b>678.824.2028</b></span>
+    </a>
+  </span>
 </div>
 
 <div>
-    <img
-        src = "https://cdn-icons-png.flaticon.com/512/545/545194.png"
-        width = "15"
-    />
-    <span>
-        <a href = "tel:678-824-2028">
-            <b>678.824.2028</b>
-        </a>
-    </span>
+  <img
+    src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+    width = "20"
+  />
+  <span>
+    <a href = "mailto:Kevin.Arellano94@GMail.Com">
+      <span><b>Kevin.Arellano94@GMail.Com</b></span>
+    </a>
+  </span>
 </div>
 
 #
