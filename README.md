@@ -56,8 +56,7 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
-
-> <a href = "https://go.dev/" title = "Go">
+> <a href = "https://go.dev/" title = "Go - an open source programming language supported by Google">
 >   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width = "50" />
 > </a>
 
