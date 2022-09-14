@@ -28,7 +28,7 @@
 
 <div>
     <img
-        src = "https://cdn-icons.flaticon.com/png/512/4423/premium/4423638.png?token=exp=1649207042~hmac=39cbc2f95f05b7193c145e7e40e79b89"
+        src = "https://cdn-icons-png.flaticon.com/512/1180/1180304.png"
         width = "15"
     />
     <span>
@@ -56,6 +56,7 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
