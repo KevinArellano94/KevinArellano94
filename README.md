@@ -134,19 +134,19 @@
 
 > [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
 
-> [![YouTube](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://www.youtube.com/KevinArellano)
+> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://open.spotify.com/user/kevin.arellano94)
 
 #
-
+g
 If you are still reading this, thank you!  I'll share some secrets about me:
 
-> **Currently working on:** GitHub's Profile README.md file and GoDot XD
+> **Currently working on:** GitHub's profile README.md file and Go projects. XD
 >
-> **I’m currently learning:** Learning Kotlin and Python Automation in GitHub Actions ( will document later ).
+> **I’m currently learning:** Learning Go, Kotlin and Swift development.
 > 
-> **I’m looking to collaborate on:** Automation, Machine Learning and Cyber Security
+> **I’m looking to collaborate on:** AI, Machine Learning and Penetration testing certification.
 > 
-> **Ask me about:** Anything from software engineering to music
+> **Ask me about:** Anything from software engineering, black holes to music.
 > 
 > **Fun facts:**
 > - I was born on January 1st.
