@@ -137,7 +137,7 @@
 > [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://open.spotify.com/user/kevin.arellano94)
 
 #
-g
+
 If you are still reading this, thank you!  I'll share some secrets about me:
 
 > **Currently working on:** GitHub's profile README.md file and Go projects. XD
