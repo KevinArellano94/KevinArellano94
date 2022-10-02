@@ -63,7 +63,7 @@
         title = "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members."
         alt = "Vue - VueJs"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width = "100" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width = "104" />
         <h3><strong>VueJs</strong></h3>
       </a>
     </td>
@@ -74,7 +74,7 @@
         title = "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations."
         alt = "AngularJs"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width = "325" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width = "335" />
         <h3><strong>AngularJs</strong></h3>
       </a>
     </td>
@@ -96,7 +96,7 @@
         title = "Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java. Scala source code can be compiled to Java bytecode and run on a Java virtual machine."
         alt = "Scala - Scala language"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width = "200" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width = "195" />
         <h3><strong>Scala</strong></h3>
       </a>
     </td>
@@ -107,7 +107,7 @@
         title = "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise."
         alt = "Kotlin"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width = "400" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width = "410" />
         <h3><strong>Kotlin</strong></h3>
       </a>
     </td>
