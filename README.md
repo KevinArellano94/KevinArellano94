@@ -1,41 +1,41 @@
 <div>
-    <h1><b>Kevin Arellano</b></h1>
-    <img
-        src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
-        width = "200"
+  <h1><b>Kevin Arellano</b></h1>
+  <img
+    src = "https://i.redd.it/snoovatar/avatars/5597ed49-0ba1-4d47-9cf3-6685f8d2ab04.png"
+    width = "200"
     />
 </div>
 
 <div>
-    <img
-        src = "https://cdn-icons-png.flaticon.com/512/684/684908.png"
-        width = "15"
-    />
-    <span><b>Atlanta, Georgia</b></span>
+  <img
+    src = "https://cdn-icons-png.flaticon.com/512/684/684908.png"
+    width = "20"
+  />
+  <span><b>Atlanta, Georgia</b></span>
 </div>
 
 <div>
-    <img
-        src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
-        width = "15"
-    />
-    <span>
-        <a href = "mailto:Kevin.Arellano94@GMail.Com">
-            <b>Kevin.Arellano94@GMail.Com</b>
-        </a>
-    </span>
+  <img
+    src = "https://cdn-icons-png.flaticon.com/512/545/545194.png"
+    width = "20"
+  />
+  <span>
+    <a href = "tel:678-824-2028">
+      <span><b>678.824.2028</b></span>
+    </a>
+  </span>
 </div>
 
 <div>
-    <img
-        src = "https://cdn-icons.flaticon.com/png/512/4423/premium/4423638.png?token=exp=1649207042~hmac=39cbc2f95f05b7193c145e7e40e79b89"
-        width = "15"
-    />
-    <span>
-        <a href = "tel:678-824-2028">
-            <b>678.824.2028</b>
-        </a>
-    </span>
+  <img
+    src = "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+    width = "20"
+  />
+  <span>
+    <a href = "mailto:Kevin.Arellano94@GMail.Com">
+      <span><b>Kevin.Arellano94@GMail.Com</b></span>
+    </a>
+  </span>
 </div>
 
 #
@@ -51,12 +51,47 @@
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "50"/>
 
 > ### Frameworks
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/>
+> <a href = "go.dev/"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/></a>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/>
 
 > ### Backend
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/>
+> <table>
+>   <tr align="middle">
+>     <td>
+>       <a
+>         href = "https://go.dev/"
+>         title = "The Go language is small, compiles really fast, and as a result it lets your mind focus on the actual problem and less on the tool you are using to solve it. Code, test, debug cycles are so quick that you forget you are not working with an interpreted language. Looking at our code, you see less boilerplate and more business logic."
+>         alt = "Go - GoLang"
+>         >
+>         <img src = "https://go.dev/images/gophers/front.svg" width = "100" />
+>         <h3><strong>Go</strong></h3>
+>       </a>
+>     </td>
+>     <td>
+>       <a
+>         href = "https://www.python.org/"
+>         title = "Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more. Building an open-source and cross-platform Azure CLI with Python by Dan Taylor."
+>         alt = "Python"
+>         >
+>         <img src = "https://www.python.org/static/img/python-logo-large.c36dccadd999.png" width = "110" />
+>         <h3><strong>Python</strong></h3>
+>       </a>
+>     </td>
+>     <td>
+>       <a
+>         href = "https://nodejs.org/en/"
+>         title = "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Or have a look at the Long Term Support (LTS) schedule"
+>         alt = "NodeJs"
+>         >
+>         <img src = "https://avatars.githubusercontent.com/u/9950313" width = "140" />
+>         <h3><strong>NodeJs</strong></h3>
+>       </a>
+>     </td>
+>   </tr>
+> </table>
+
+<!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/> -->
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
 > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
@@ -99,19 +134,19 @@
 
 > [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
 
-> [![YouTube](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://www.youtube.com/KevinArellano)
+> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://open.spotify.com/user/kevin.arellano94)
 
 #
 
 If you are still reading this, thank you!  I'll share some secrets about me:
 
-> **Currently working on:** GitHub's Profile README.md file and GoDot XD
+> **Currently working on:** GitHub's profile README.md file and Go projects. XD
 >
-> **I’m currently learning:** Learning Kotlin and Python Automation in GitHub Actions ( will document later ).
+> **I’m currently learning:** Learning Go, Kotlin and Swift development.
 > 
-> **I’m looking to collaborate on:** Automation, Machine Learning and Cyber Security
+> **I’m looking to collaborate on:** AI, Machine Learning and Penetration testing certification.
 > 
-> **Ask me about:** Anything from software engineering to music
+> **Ask me about:** Anything from software engineering, black holes to music.
 > 
 > **Fun facts:**
 > - I was born on January 1st.
