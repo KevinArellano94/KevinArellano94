@@ -45,8 +45,35 @@
 ### Frontend
 <table>
   <tr align="middle">
-    <!-- reactjs -->
+    <th><h3><strong>ReactJs</strong></h3></th>
+    <th><h3><strong>VueJs</strong></h3></th>
+  </tr>
+  <tr align="middle">
     <td>
+      <a
+        href = "https://reactjs.org/"
+        title = "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js."
+        alt = "React - ReactJs"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://vuejs.org/"
+        title = "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members."
+        alt = "Vue - VueJs"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width = "100" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr align="middle">
+    <!-- reactjs -->
+    <!-- <td>
       <a
         href = "https://reactjs.org/"
         title = "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js."
@@ -55,9 +82,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width = "100" />
         <h3><strong>ReactJs</strong></h3>
       </a>
-    </td>
+    </td> -->
     <!-- vuejs -->
-    <td>
+    <!-- <td>
       <a
         href = "https://vuejs.org/"
         title = "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members."
@@ -66,9 +93,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width = "104" />
         <h3><strong>VueJs</strong></h3>
       </a>
-    </td>
+    </td> -->
     <!-- angularjs -->
-    <td>
+    <!-- <td>
       <a
         href = "https://angularjs.org/"
         title = "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations."
@@ -77,9 +104,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width = "335" />
         <h3><strong>AngularJs</strong></h3>
       </a>
-    </td>
+    </td> -->
     <!-- ruby -->
-    <td>
+    <!-- <td>
       <a
         href = "https://www.ruby-lang.org/en/"
         title = "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types."
@@ -88,9 +115,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width = "90" />
         <h3><strong>Ruby</strong></h3>
       </a>
-    </td>
+    </td> -->
     <!-- scala -->
-    <td>
+    <!-- <td>
       <a
         href = "https://scala-lang.org/"
         title = "Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java. Scala source code can be compiled to Java bytecode and run on a Java virtual machine."
@@ -99,9 +126,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width = "195" />
         <h3><strong>Scala</strong></h3>
       </a>
-    </td>
+    </td> -->
     <!-- kotlin -->
-    <td>
+    <!-- <td>
       <a
         href = "https://kotlinlang.org/"
         title = "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise."
@@ -110,9 +137,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width = "410" />
         <h3><strong>Kotlin</strong></h3>
       </a>
-    </td>
+    </td> -->
     <!-- rust -->
-    <td>
+    <!-- <td>
       <a
         href = "https://www.rust-lang.org/"
         title = "Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages."
@@ -121,12 +148,9 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width = "90" />
         <h3><strong>Rust</strong></h3>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
-<!-- 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width = "50"/>
- -->
 
 ### Frameworks
 <!-- > <a href = "go.dev/"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/></a>
