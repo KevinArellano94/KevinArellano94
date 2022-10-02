@@ -349,6 +349,9 @@ netlify
 
 ## **SOCIAL**
 <table>
+  <tr align="middle">
+    <th><h3><strong>Reddit</strong></h3></th>
+  </tr>
   <tr>
     <td>
       <a
@@ -359,7 +362,13 @@ netlify
         <img src = "https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge" />
       </a>
     </td>
-    <br />
+</table>
+
+<table>
+  <tr align="middle">
+    <th><h3><strong>Twitter</strong></h3></th>
+  </tr>
+  <tr>
     <td>
       <a
         href = "https://twitter.com/KevArellano94"
