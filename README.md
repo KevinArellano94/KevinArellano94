@@ -145,7 +145,7 @@
         title = "Nuxt.js is a free and open source JavaScript library based on Vue.js, Node.js, Webpack and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js. The framework is advertised as a 'Meta-framework for universal applications'."
         alt = "NuxtJs"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" width = "100" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" width = "75" />
       </a>
     </td>
     <td>
@@ -154,7 +154,7 @@
         title = "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS."
         alt = "Angular - Agnular framework"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width = "100" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width = "75" />
       </a>
     </td>
     <td>
