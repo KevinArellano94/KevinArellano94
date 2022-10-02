@@ -256,36 +256,76 @@
   </tr>
 </table>
 
-<!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/> -->
-<!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width = "50"/>
+### Technologies
+<table>
+  <tr align="middle">
+    <th><h3><strong>AWS</strong></h3></th>
+    <th><h3><strong>Terraform</strong></h3></th>
+    <th><h3><strong>0</strong></h3></th>
+  </tr>
+  <tr align="middle">
+    <td>
+      <a
+        href = "https://aws.amazon.com/"
+        title = "Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis."
+        alt = "AWS - Amazon Web Services"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width = "100" />
+      </a>
+      <br />
+      <a
+        href = "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html"
+        title = "Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. DynamoDB lets you offload the administrative burdens of operating and scaling a distributed database so that you don't have to worry about hardware provisioning, setup and configuration, replication, software patching, or cluster scaling. DynamoDB also offers encryption at rest, which eliminates the operational burden and complexity involved in protecting sensitive data."
+        alt = "DynamoDB - AWS DynamoDB"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://www.terraform.io/"
+        title = "Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON."
+        alt = "Terraform"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" width = "200" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = ""
+        title = ""
+        alt = ""
+        >
+        <img src = "" width = "100" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width = "50"/>
 
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
 
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/> -->
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/> -->
 
-> ### Technologies
-<!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "50"/> -->
+### Technologies
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "50"/> -->
 
 #
 
