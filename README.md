@@ -350,16 +350,17 @@ netlify
 ## **SOCIAL**
 <table>
   <tr align="middle">
-    <th><h3><strong>Reddit</strong></h3></th>
+    <th>GitHub</th>
   </tr>
   <tr>
     <td>
       <a
-        href = "https://www.reddit.com/user/KevinArellano94"
+        href = "https://www.github.com/KevinArellano94"
         title = "Check out my account: KevinArellano94"
-        alt = "Reddit user KevinArellano94"
+        alt = "GitHub user KevinArellano94"
         >
-        <img src = "https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge" />
+        <img src = "https://img.shields.io/github/followers/KevinArellano94?style=for-the-badge&color=blue&logo=GitHub"
+        />
       </a>
     </td>
 </table>
@@ -375,19 +376,130 @@ netlify
         title = "Check out my account: KevArellano94"
         alt = "Twitter user KevArellano94"
         >
-        <img src = "https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge" />
+        <img src = "https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge&logo=Twitter" />
       </a>
     </td>
   </tr>
 </table>
 
-<!--
-[![Reddit](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://www.reddit.com/user/KevinArellano94)
-[![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)](https://twitter.com/KevArellano94)
-[![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
-[![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://open.spotify.com/user/kevin.arellano94)
--->
+<table>
+  <tr align="middle">
+    <th>Instagram</th>
+  </tr>
+  <tr>
+    <td>
+      <a
+        href = "https://www.instagram.com/kevin.arellano94/"
+        title = "Check out my account: kevin.arellano94"
+        alt = "Instagram user kevin.arellano94"
+        >
+        <img src = "https://img.shields.io/badge/@kevin.arellano94-gray?logo=Instagram&style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr align="middle">
+    <th>Mastodon</th>
+  </tr>
+  <tr>
+    <td>
+      <akevinarellano94
+        href = "https://awscommunity.social/@KevinArellano94"
+        title = "Check out my account: KevinArellano94"
+        alt = "Mastodon user KevinArellano94"
+        >
+        <img src = "https://img.shields.io/mastodon/follow/109100180309755027?domain=https%3A%2F%2Fawscommunity.social&logo=Mastodon&style=for-the-badge"
+        />
+      </a>
+    </td>
+</table>
+
+<table>
+  <tr align="middle">
+    <th>StackOverflow</th>
+  </tr>
+  <tr>
+    <td>
+      <akevinarellano94
+        href = "https://stackoverflow.com/users/14848760/kevinarellano94"
+        title = "Check out my account: kevinarellano94"
+        alt = "StackOverflow user kevinarellano94"
+        >
+        <img src = "https://img.shields.io/badge/u/kevin.arellano94-gray?logo=StackOverFlow&style=for-the-badge"
+        />
+      </a>
+    </td>
+</table>
+
+<table>
+  <tr align="middle">
+    <th>Reddit</th>
+  </tr>
+  <tr>
+    <td>
+      <a
+        href = "https://www.reddit.com/user/KevinArellano94"
+        title = "Check out my account: KevinArellano94"
+        alt = "Reddit user KevinArellano94"
+        >
+        <img src = "https://img.shields.io/reddit/user-karma/combined/KevinArellano94?color=gold&logo=Reddit&style=for-the-badge"
+        />
+      </a>
+    </td>
+</table>
+
+<table>
+  <tr align="middle">
+    <th>Youtube</th>
+  </tr>
+  <tr>
+    <td>
+      <a
+        href = "https://www.youtube.com/c/KevinArellano"
+        title = "Check out my account: KevinArellano"
+        alt = "Youtube user KevinArellano"
+        >
+        <img src = "https://img.shields.io/youtube/channel/subscribers/UClHn2FuUnrxXW07eJCYfazw?logo=YouTube&style=for-the-badge"
+        />
+      </a>
+    </td>
+</table>
+
+<table>
+  <tr align="middle">
+    <th>Twitch</th>
+  </tr>
+  <tr>
+    <td>
+      <a
+        href = "https://www.twitch.tv/kevinarellano94"
+        title = "Check out my account: kevinarellano94"
+        alt = "Twitch user kevinarellano94"
+        >
+        <img src = "https://img.shields.io/twitch/status/kevinarellano94?logo=Twitch&style=for-the-badge"
+        />
+      </a>
+    </td>
+</table>
+
+<table>
+  <tr align="middle">
+    <th>Spotify</th>
+  </tr>
+  <tr>
+    <td>
+      <a
+        href = "https://open.spotify.com/user/kevin.arellano94"
+        title = "Check out my account: KevinArellano94"
+        alt = "Spotify user KevinArellano94"
+        >
+        <img src = "https://img.shields.io/badge/kevin.arellano94-gray?logo=Spotify&style=for-the-badge"
+        />
+      </a>
+    </td>
+</table>
 
 #
 
