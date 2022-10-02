@@ -128,6 +128,7 @@
     <th><h3><strong>Angular</strong></h3></th>
     <th><h3><strong>Ruby on Rails</strong></h3></th>
     <th><h3><strong>Django</strong></h3></th>
+    <th><h3><strong>.NET</strong></h3></th>
   </tr>
   <tr align="middle">
     <td>
@@ -175,44 +176,85 @@
         <img src = "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width = "150" />
       </a>
     </td>
+    <td>
+      <a
+        href = "https://dotnet.microsoft.com/en-us"
+        title = ".NET is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices."
+        alt = ".NET - dotnet microsoft"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width = "100" />
+      </a>
+    </td>
   </tr>
 </table>
 
-> ### Backend
-> <table>
->   <tr align="middle">
->     <td>
->       <a
->         href = "https://go.dev/"
->         title = "The Go language is small, compiles really fast, and as a result it lets your mind focus on the actual problem and less on the tool you are using to solve it. Code, test, debug cycles are so quick that you forget you are not working with an interpreted language. Looking at our code, you see less boilerplate and more business logic."
->         alt = "Go - GoLang"
->         >
->         <img src = "https://go.dev/images/gophers/front.svg" width = "100" />
->         <h3><strong>Go</strong></h3>
->       </a>
->     </td>
->     <td>
->       <a
->         href = "https://www.python.org/"
->         title = "Thanks to the flexibility of Python and the powerful ecosystem of packages, the Azure CLI supports features such as autocompletion (in shells that support it), persistent credentials, JMESPath result parsing, lazy initialization, network-less unit tests, and more. Building an open-source and cross-platform Azure CLI with Python by Dan Taylor."
->         alt = "Python"
->         >
->         <img src = "https://www.python.org/static/img/python-logo-large.c36dccadd999.png" width = "110" />
->         <h3><strong>Python</strong></h3>
->       </a>
->     </td>
->     <td>
->       <a
->         href = "https://nodejs.org/en/"
->         title = "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Or have a look at the Long Term Support (LTS) schedule"
->         alt = "NodeJs"
->         >
->         <img src = "https://avatars.githubusercontent.com/u/9950313" width = "140" />
->         <h3><strong>NodeJs</strong></h3>
->       </a>
->     </td>
->   </tr>
-> </table>
+### Backend
+<table>
+  <tr align="middle">
+    <th><h3><strong>Go</strong></h3></th>
+    <th><h3><strong>NodeJs</strong></h3></th>
+    <th><h3><strong>Python</strong></h3></th>
+    <th><h3><strong>PHP</strong></h3></th>
+    <th><h3><strong>VB.NET</strong></h3></th>
+    <th><h3><strong>C#</strong></h3></th>
+  </tr>
+  <tr align="middle">
+    <td>
+      <a
+        href = "http://go.dev/"
+        title = "Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency."
+        alt = "Go - Go language"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://nodejs.org/"
+        title = "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications."
+        alt = "NodeJs"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://www.python.org/"
+        title = "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
+        alt = "Python - Python language"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://www.php.net/"
+        title = "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group. PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor."
+        alt = "PHP"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://learn.microsoft.com/en-us/dotnet/visual-basic/"
+        title = "Visual Basic, originally called Visual Basic.NET, is a multi-paradigm, object-oriented programming language, implemented on.NET, Mono, and the.NET Framework. Microsoft launched VB.NET in 2002 as the successor to its original Visual Basic language, the last version of which was Visual Basic 6.0."
+        alt = "VB.NET - Visual Basic.net"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://dotnet.microsoft.com/en-us/languages/csharp"
+        title = "C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines."
+        alt = "C# - C Sharp"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width = "100" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50"/> -->
 <!-- > <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width = "50"/>
