@@ -366,7 +366,7 @@ netlify
 
 <table>
   <tr align="middle">
-    <th><h3><strong>Twitter</strong></h3></th>
+    <th>Twitter</th>
   </tr>
   <tr>
     <td>
