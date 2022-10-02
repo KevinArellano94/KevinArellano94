@@ -405,7 +405,7 @@ netlify
   </tr>
   <tr>
     <td>
-      <akevinarellano94
+      <a
         href = "https://awscommunity.social/@KevinArellano94"
         title = "Check out my account: KevinArellano94"
         alt = "Mastodon user KevinArellano94"
@@ -422,7 +422,7 @@ netlify
   </tr>
   <tr>
     <td>
-      <akevinarellano94
+      <a
         href = "https://stackoverflow.com/users/14848760/kevinarellano94"
         title = "Check out my account: kevinarellano94"
         alt = "StackOverflow user kevinarellano94"
