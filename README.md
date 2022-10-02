@@ -120,93 +120,63 @@
   </tr>
 </table>
 
+### Frameworks
 <table>
   <tr align="middle">
-    <!-- reactjs -->
-    <!-- <td>
+    <th><h3><strong>NextJs</strong></h3></th>
+    <th><h3><strong>NuxtJs</strong></h3></th>
+    <th><h3><strong>Angular</strong></h3></th>
+    <th><h3><strong>Ruby on Rails</strong></h3></th>
+    <th><h3><strong>Django</strong></h3></th>
+  </tr>
+  <tr align="middle">
+    <td>
       <a
-        href = "https://reactjs.org/"
-        title = "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js."
-        alt = "React - ReactJs"
+        href = "https://nextjs.org/"
+        title = "Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites. React documentation mentions Next.js among 'Recommended Toolchains' advising it to developers as a solution when 'Building a server-rendered website with Node.js'."
+        alt = "NextJs"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width = "100" />
-        <h3><strong>ReactJs</strong></h3>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/41/Next.js_Logotype_Light_Background.svg" width = "300" />
       </a>
-    </td> -->
-    <!-- vuejs -->
-    <!-- <td>
+    </td>
+    <td>
       <a
-        href = "https://vuejs.org/"
-        title = "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members."
-        alt = "Vue - VueJs"
+        href = "https://nuxtjs.org/"
+        title = "Nuxt.js is a free and open source JavaScript library based on Vue.js, Node.js, Webpack and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js. The framework is advertised as a 'Meta-framework for universal applications'."
+        alt = "NuxtJs"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width = "104" />
-        <h3><strong>VueJs</strong></h3>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" width = "100" />
       </a>
-    </td> -->
-    <!-- angularjs -->
-    <!-- <td>
+    </td>
+    <td>
       <a
-        href = "https://angularjs.org/"
-        title = "AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations."
-        alt = "AngularJs"
+        href = "https://angular.io/guide/what-is-angular"
+        title = "Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS."
+        alt = "Angular - Agnular framework"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" width = "335" />
-        <h3><strong>AngularJs</strong></h3>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width = "100" />
       </a>
-    </td> -->
-    <!-- ruby -->
-    <!-- <td>
+    </td>
+    <td>
       <a
-        href = "https://www.ruby-lang.org/en/"
-        title = "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types."
-        alt = "Ruby - Ruby language"
+        href = "https://rubyonrails.org/"
+        title = "Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer and HTML, CSS and JavaScript for user interfacing."
+        alt = "Ruby on Rails - Rails framework"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" width = "90" />
-        <h3><strong>Ruby</strong></h3>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width = "200" />
       </a>
-    </td> -->
-    <!-- scala -->
-    <!-- <td>
+    </td>
+    <td>
       <a
-        href = "https://scala-lang.org/"
-        title = "Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming. Designed to be concise, many of Scala's design decisions are aimed to address criticisms of Java. Scala source code can be compiled to Java bytecode and run on a Java virtual machine."
-        alt = "Scala - Scala language"
+        href = "https://www.djangoproject.com/"
+        title = "Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites."
+        alt = "Django - Django framework"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" width = "195" />
-        <h3><strong>Scala</strong></h3>
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width = "200" />
       </a>
-    </td> -->
-    <!-- kotlin -->
-    <!-- <td>
-      <a
-        href = "https://kotlinlang.org/"
-        title = "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise."
-        alt = "Kotlin"
-        >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width = "410" />
-        <h3><strong>Kotlin</strong></h3>
-      </a>
-    </td> -->
-    <!-- rust -->
-    <!-- <td>
-      <a
-        href = "https://www.rust-lang.org/"
-        title = "Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages."
-        alt = "Rust - Rust language"
-        >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width = "90" />
-        <h3><strong>Rust</strong></h3>
-      </a>
-    </td> -->
+    </td>
   </tr>
 </table>
-
-### Frameworks
-<!-- > <a href = "go.dev/"><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width = "50"/></a>
-angular
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width = "50"/>
-> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width = "50"/> -->
 
 > ### Backend
 > <table>
