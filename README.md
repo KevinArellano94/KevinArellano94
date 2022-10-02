@@ -136,7 +136,7 @@
         title = "Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites. React documentation mentions Next.js among 'Recommended Toolchains' advising it to developers as a solution when 'Building a server-rendered website with Node.js'."
         alt = "NextJs"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/41/Next.js_Logotype_Light_Background.svg" width = "300" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/4/41/Next.js_Logotype_Light_Background.svg" width = "200" />
       </a>
     </td>
     <td>
@@ -163,7 +163,7 @@
         title = "Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages. It encourages and facilitates the use of web standards such as JSON or XML for data transfer and HTML, CSS and JavaScript for user interfacing."
         alt = "Ruby on Rails - Rails framework"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width = "200" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width = "100" />
       </a>
     </td>
     <td>
@@ -172,7 +172,7 @@
         title = "Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit. Django's primary goal is to ease the creation of complex, database-driven websites."
         alt = "Django - Django framework"
         >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width = "200" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width = "150" />
       </a>
     </td>
   </tr>
