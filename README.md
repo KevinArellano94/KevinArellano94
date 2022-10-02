@@ -261,7 +261,9 @@
   <tr align="middle">
     <th><h3><strong>AWS</strong></h3></th>
     <th><h3><strong>Terraform</strong></h3></th>
-    <th><h3><strong>0</strong></h3></th>
+    <th><h3><strong>Google Cloud Platform</strong></h3></th>
+    <th><h3><strong>GitHub</strong></h3></th>
+    <th><h3><strong>Docker</strong></h3></th>
   </tr>
   <tr align="middle">
     <td>
@@ -271,14 +273,6 @@
         alt = "AWS - Amazon Web Services"
         >
         <img src = "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width = "100" />
-      </a>
-      <br />
-      <a
-        href = "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html"
-        title = "Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. DynamoDB lets you offload the administrative burdens of operating and scaling a distributed database so that you don't have to worry about hardware provisioning, setup and configuration, replication, software patching, or cluster scaling. DynamoDB also offers encryption at rest, which eliminates the operational burden and complexity involved in protecting sensitive data."
-        alt = "DynamoDB - AWS DynamoDB"
-        >
-        <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width = "100" />
       </a>
     </td>
     <td>
@@ -292,16 +286,37 @@
     </td>
     <td>
       <a
-        href = ""
-        title = ""
-        alt = ""
+        href = "https://cloud.google.com/"
+        title = "Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube."
+        alt = "GCP - GCloud - Google Cloud Platform"
         >
-        <img src = "" width = "100" />
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width = "200" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://github.com/"
+        title = "GitHub, Inc., is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project."
+        alt = "GH - GitHub"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" width = "150" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://www.docker.com/"
+        title = "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first started in 2013 and is developed by Docker, Inc."
+        alt = "Docker"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" width = "150" />
       </a>
     </td>
   </tr>
 </table>
 
+<!--
+Supabase
+PocketBase
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width = "50"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width = "50"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width = "50"/>
@@ -310,36 +325,60 @@
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width = "50"/>
 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/> -->
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width = "50"/>
 
-### Technologies
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width = "50"/>
+
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width = "50"/>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "50"/>g
+
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width = "50"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width = "50"/>
+
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
+
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width = "50"/>
+netlify
+
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width = "50"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width = "50"/>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width = "50"/>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width = "50"/> -->
+-->
 
 #
 
 ## **SOCIAL**
+<table>
+  <tr>
+    <td>
+      <a
+        href = "https://www.reddit.com/user/KevinArellano94"
+        title = "Check out my account: KevinArellano94"
+        alt = "Reddit user KevinArellano94"
+        >
+        <img src = "https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge" />
+      </a>
+    </td>
+    <br />
+    <td>
+      <a
+        href = "https://twitter.com/KevArellano94"
+        title = "Check out my account: KevArellano94"
+        alt = "Twitter user KevArellano94"
+        >
+        <img src = "https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!--
 [![Reddit](https://img.shields.io/reddit/user-karma/combined/KevinArellano94?style=for-the-badge)](https://www.reddit.com/user/KevinArellano94)
-
 [![Twitter](https://img.shields.io/twitter/follow/KevArellano94?style=for-the-badge)](https://twitter.com/KevArellano94)
-
 [![Twitch](https://img.shields.io/twitch/status/kevinarellano94?style=for-the-badge)](https://www.twitch.tv/kevinarellano94)
-
 [![YouTube](https://img.shields.io/youtube/channel/views/UClHn2FuUnrxXW07eJCYfazw?style=for-the-badge)](https://www.youtube.com/KevinArellano)
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge)](https://open.spotify.com/user/kevin.arellano94)
+-->
 
 #
 
