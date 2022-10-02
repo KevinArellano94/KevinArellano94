@@ -507,9 +507,9 @@ If you are still reading this, thank you!  I'll share some secrets about me:
 
 **Currently working on:** GitHub's profile README.md file and Go projects. XD
 
-**I’m currently learning:** Learning Go, Kotlin and Swift development.
+**I’m currently learning:** Learning Go and software architecture.
  
-**I’m looking to collaborate on:** AI, Machine Learning and Penetration testing certification.
+**I’m looking to collaborate on:** AI, Machine Learning and Penetration testing.
 
 **Ask me about:** Anything from software engineering, black holes to music.
 
@@ -535,6 +535,12 @@ If you are still reading this, thank you!  I'll share some secrets about me:
 - Did you know, there are more dead people than living people in the world?  Ratio is one thirtieth which means if you find a someone that is interesting, the timeline/place/location have to be exact!  So it's one out of 150+ billion!
 
 Most favorite bands:
+- 宇宙ネコ子
+- Sonata Arctica
+- 小釗
+- Yellow House
+- Kinokoteikoku
+- Group Action
 - *shels
 - Crippled Black Phoenix
 - Empire of the Sun
@@ -542,3 +548,4 @@ Most favorite bands:
 - Alcest
 - Kwoon
 - OWEL
+- Ghost
