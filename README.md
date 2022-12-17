@@ -542,7 +542,7 @@ If you are still reading this, thank you!  I'll share some secrets about me:
 
 - "Music was invented to confirm human loneliness" - Durrell, Lawrence
 - I appreciate kindness, understanding and complete unfiltered raw honesty.
-- Did you know, there are more dead people than living people in the world?  Ratio is one thirtieth which means if you find a someone that is interesting, the timeline/place/location have to be exact!  So it's one out of 150+ billion!
+- Did you know, there are more dead people than living people in the world?  Ratio is one thirtieth which means if you find a someone that is interesting, the timeline/place/location have to be exact!  So it's one out of 150+ trillion!
 
 Most favorite bands:
 - 宇宙ネコ子
