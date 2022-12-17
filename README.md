@@ -197,6 +197,7 @@
     <th><h3><strong>PHP</strong></h3></th>
     <th><h3><strong>VB.NET</strong></h3></th>
     <th><h3><strong>C#</strong></h3></th>
+    <th><h3><strong>C++</strong></h3></th>
   </tr>
   <tr align="middle">
     <td>
@@ -251,6 +252,15 @@
         alt = "C# - C Sharp"
         >
         <img src = "https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width = "100" />
+      </a>
+    </td>
+    <td>
+      <a
+        href = "https://isocpp.org/"
+        title = "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or 'C with Classes'."
+        alt = "C++ - C plus plus - CPP"
+        >
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width = "100" />
       </a>
     </td>
   </tr>
